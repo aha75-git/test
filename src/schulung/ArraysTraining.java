@@ -157,8 +157,7 @@ public class ArraysTraining {
         int average = 0;
         StringBuilder output = new StringBuilder();
         for (int number : randomNumbers) {
-            output.append(number);
-            output.append(" ");
+            output.append(number).append(" ");
         }
         System.out.println(output.toString());
         output = new StringBuilder();
@@ -167,8 +166,7 @@ public class ArraysTraining {
 
         for (int number : randomNumbers) {
             average += number;
-            output.append(number);
-            output.append(" ");
+            output.append(number).append(" ");
         }
         System.out.println(output.toString());
         System.out.println();
