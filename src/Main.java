@@ -5,7 +5,7 @@ public class Main {
         //BasicsExamples.basicsCall();
 
         //Operatoren.combineInputAndLogic();
-        //Operatoren.combineEquals();
+        Operatoren.combineEquals();
         Operatoren.zugangskontrolle();
     }
 }
