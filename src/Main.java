@@ -1,3 +1,4 @@
+import schulung.ArraysTraining;
 import schulung.Operatoren;
 
 public class Main {
@@ -5,7 +6,10 @@ public class Main {
         //BasicsExamples.basicsCall();
 
         //Operatoren.combineInputAndLogic();
-        Operatoren.combineEquals();
-        Operatoren.zugangskontrolle();
+        //Operatoren.combineEquals();
+        //Operatoren.zugangskontrolle();
+        ArraysTraining.exerciseEasy();
+        ArraysTraining.exerciseMedium();
+        ArraysTraining.exerciseBonus();
     }
 }
